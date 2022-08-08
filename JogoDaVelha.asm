@@ -1,4 +1,4 @@
-; Hello World - Escreve mensagem armazenada na memoria na tela
+; Jogo da Velha em assembly
 
 
 ; ------- TABELA DE CORES -------
@@ -20,7 +20,6 @@
 ; 3328 rosa							1101 0000
 ; 3584 aqua							1110 0000
 ; 3840 preto						1111 0000
-
 
 jmp main
 
@@ -44,7 +43,7 @@ espacosOcupados: var #1
 static espacosOcupados + #0, #0
 
 strVezJogador: string "- Sua vez!"
-strVelha: string "Deu velha!" 
+strVelha: string "Deu velha!      " ; espaços extras para facilitar formatação
 strVencedor: string "ganhou!      "	; espaços extras para facilitar formatação
 strResetStr: string "Aperte espaco para reiniciar!"
 apagaString: string "                             "
