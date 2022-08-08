@@ -16,7 +16,7 @@ Pressione as teclas [1-9] referentes à posição no tabuleiro
 7 | 8 | 9  
 
 ### Professor: Eduardo do Valle Simões
-### Aluno: Yvis Freire Silva Santos
+### Aluno: Yvis Freire Silva Santos - 12608793
 
 ## Vídeo demonstrando o jogo
 [Link para a demonstração](https://drive.google.com/file/d/1_Rc-GAnlUAPunOQip1ID_wSvq8HNWPjV/view?usp=sharing)
