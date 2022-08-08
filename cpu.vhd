@@ -1,4 +1,3 @@
-Meu Drive
 -- Processador Versao 3: 23/05/2013
 -- Jeg e Ceg  concertado!!
 -- Video com 16 cores e tela de 40 colunas por 30 linhas
